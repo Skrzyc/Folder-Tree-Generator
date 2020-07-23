@@ -6,8 +6,8 @@ Creates folder tree/structure
 **Modules**  :  `math`, `os`
 
 **Range** 
-* infinite levels
-* infinite number of folders in each level
+* number of levels is limited by the max size of a list, which is 536870912
+* number of folders in each level is limited by the maximum size of the list, which is 536870912
 
 ## Useage
 
